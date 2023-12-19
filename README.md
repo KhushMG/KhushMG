@@ -1,7 +1,9 @@
 ### Hi there, I'm Khushmeet, or Meeti! 👋
 ### I'm a Computer Science student at the University of Washington
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on a new version for my personal website <br> using React.js, Next.js, and TailwindCSS!
+- 🔭 I’m currently working on: <br/>
+    - a new version for my personal website using React.js, Next.js, and TailwindCSS
+    - a Warhammer 40k Astartes Database
 - 📫 How to reach me: email me! khushmeetgobindpuri(at)gmail.com
 
 
