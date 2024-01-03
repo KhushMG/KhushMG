@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on: <br/>
     - a new version for my personal website using React.js, Next.js, and TailwindCSS
-    - a Warhammer 40k Astartes Database
+    - a Warhammer 40k Astartes Database (Unofficial!)
 - 📫 How to reach me: email me! khushmeetgobindpuri(at)gmail.com
 
 
