@@ -6,16 +6,10 @@
     - a Warhammer 40k Astartes Database (Unofficial!)
 - 📫 How to reach me: email me! khushmeetgobindpuri(at)gmail.com
 
-
-<!--
-**KhushMG/KhushMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+<div class="h3"><strong> Programming Languages: </strong> 
+C++, Python, Java, HTML, CSS, JavaScript, SQL
+</div>
+<div class="h3"><strong> Frameworks/Tools: </strong> React.js, Git, Next.js, TailwindCSS, Pandas, Matplotlib 
+</div>
+<div class="h3"><strong> Concepts/Technologies: </strong> Docker, Agile Methodologies, Software Design, Software Engineering
+</div>
