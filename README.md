@@ -1,5 +1,5 @@
 ### Hi there, I'm Khushmeet, or Meeti! 👋
-### I'm a Computer Science student at the University of Washington
+### I'm a Computer Science student at the University of Washington. (and a Warhammer 40k nerd)
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on: <br/>
     - a new version for my personal website using React.js, Next.js, and TailwindCSS
